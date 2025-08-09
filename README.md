@@ -19,7 +19,9 @@ talk2text is a fun, interactive speech-to-text app with a twist — your words m
 
 💃 Watch him dance whenever you talk, stay idle when you’re silent.
 
-🎵 Upload music and he’ll groove in sync with the beat, thanks to real-time beat detection.
+🎵 Upload your voice and he’ll groove in sync with the beat, thanks to real-time beat detection.
+
+😅 The person will dance even if you don't say anything
 
 Powered by OpenAI Whisper for accurate transcription and librosa for tempo detection, talk2text brings retro ASCII fun to your browser.
 
@@ -47,20 +49,18 @@ For Software:
 # Screenshots (Add at least 3)
 <img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/3fdf5ae8-a154-40c3-a567-5253521b7814" />
 
-*Add caption explaining what this shows*
+In this image, it is the initial state
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1920" height="1080" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/5ac70bcd-100b-46bf-b72d-ed63cf58558e" />
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+Recording is going on
+<img width="1920" height="1080" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/8b7cf44f-36b1-4dd3-9140-17c5cdcf7601" />
+<img width="1920" height="1080" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/103e3e51-5936-4665-8bf9-1dad3a3b7069" />
+
+The person is dancing
 
 
 
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
 
 ## Team Contributions
