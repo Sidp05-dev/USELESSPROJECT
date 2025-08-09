@@ -9,45 +9,44 @@
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: SIDHARTH P - COCHIN UNIVERSITY COLLEGE OF ENGINEERING KUTTANAD
+- Member 2: HARINARAYAN J - COCHIN UNIVERSITY COLLEGE OF ENGINEERING KUTTANAD
 
 ### Project Description
-[2-3 lines about what your project does]
+talk2text is a fun, interactive speech-to-text app with a twist — your words make an ASCII man dance!
+
+🎤 Speak into your microphone and see your speech instantly transcribed.
+
+💃 Watch him dance whenever you talk, stay idle when you’re silent.
+
+🎵 Upload music and he’ll groove in sync with the beat, thanks to real-time beat detection.
+
+Powered by OpenAI Whisper for accurate transcription and librosa for tempo detection, talk2text brings retro ASCII fun to your browser.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+No one is there to dance for us when we say anything
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+There is a person in the program who is dancing for us. He even dances when we don't speak.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Python
+- Gradio
+- gradio – to build the interactive web UI.
+- openai-whisper
+- torch
+- os
+- tempfile 
+- threading
+- time
+- Hugging Face Spaces
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/3fdf5ae8-a154-40c3-a567-5253521b7814" />
+
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
@@ -56,41 +55,17 @@ For Software:
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- SIDHARTH P: CODER
+- HARINARAYAN J: CODER AND GIVING USELESS IDEAS
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
